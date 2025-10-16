@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Tank-WebGL-Demo-0.1.0";
 const contentToCache = [
     "Build/-Build-Tank-WebGL-Demo.loader.js",
-    "Build/-Build-Tank-WebGL-Demo.framework.js",
-    "Build/-Build-Tank-WebGL-Demo.data",
-    "Build/-Build-Tank-WebGL-Demo.wasm",
+    "Build/-Build-Tank-WebGL-Demo.framework.js.gz",
+    "Build/-Build-Tank-WebGL-Demo.data.gz",
+    "Build/-Build-Tank-WebGL-Demo.wasm.gz",
     "TemplateData/style.css"
 
 ];
